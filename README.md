@@ -1,14 +1,6 @@
 <h1 align="center">
 Seeking a graceful solution to the prestigious challenges
 </h1>
-<p align="center">
-  <img alt="build status" src="https://badgen.net/badge/build/passing/green?icon=github"/>
-  <img alt="release version" src="https://badgen.net/badge/release/v0.227.5"/>
-  <img alt="license" src="https://badgen.net/badge/license/WTFPL/"/>
-  <a href="https://www.linkedin.com/in/c-137-aru/">
-    <img alt="LinkedIn" src="https://badgen.net/badge/contact me/LinkedIn/"/>
-  </a>
-</p>
 
 <h2 align="left">
 My previous experience
