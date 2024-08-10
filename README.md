@@ -23,6 +23,6 @@ My previous experience
 
 ## My active quests
 
-- **lazy evaluation**: Make the algorithm be lazy
+- **lazy evaluation**: procrastinate the code execution
 - **macros**: let the code do my job
-- **syntactic salt**: Make the code foolproof
+- **syntactic salt**: make the code foolproof
