@@ -1,10 +1,6 @@
-<h1 align="center">
-Seeking a graceful solution to the prestigious challenges
-</h1>
+# My Wonderland 🐇
 
-<h2 align="left">
-My previous experience
-</h2>
+## Previous experience
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
     <img width="12" />
@@ -33,8 +29,10 @@ My previous experience
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala"  />
 </p>
 
-## My active quests
+## Quests
+- Lazy Data Structures
+- Macros
+- Syntactic Salt
+- IIIF
 
-* **lazy evaluation**: procrastinate the code execution
-* **macros**: let the code do my job
-* **syntactic salt**: make the code foolproof
+[Awesome Quests](https://github.com/bigaru/bigaru/blob/main/awesome-quests.md) is a curated list of my ideas.
