@@ -1,6 +1,7 @@
-# My Wonderland 🐇
+# Bienvenue 🖖
+Software Engineer based in Zurich, focused on full-stack development, TypeScript, React, Python, Kotlin and Spring Boot.
 
-## Previous experience
+## Tech Stack
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript"  />
     <img width="12" />
@@ -29,10 +30,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="scala"  />
 </p>
 
-## Quests
-- Lazy Data Structures
-- Macros
-- Syntactic Salt
-- IIIF
-
-[Awesome Quests](https://github.com/bigaru/bigaru/blob/main/awesome-quests.md) is a curated list of my ideas.
+## Links
+- LinkedIn: https://www.linkedin.com/in/bigaru
+- Blog: https://dev.to/bigaru
